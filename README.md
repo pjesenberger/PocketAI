@@ -24,5 +24,3 @@ PocketAI is a private AI chat app for iPhone and iPad. Every model runs directly
 
 ## Important Notes
 Llama, Gemma and Qwen models are made by Meta, Google and Alibaba and are downloaded from Hugging Face under their own licenses. The license for this project applies only to the source code.
-
-More of my work: [pascaljesenberger.com](https://pascaljesenberger.com/)
